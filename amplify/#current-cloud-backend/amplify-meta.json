@@ -1,0 +1,15 @@
+{
+  "providers": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-hackernews-dev-121715-authRole",
+      "UnauthRoleArn": "arn:aws:iam::373215252856:role/amplify-hackernews-dev-121715-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::373215252856:role/amplify-hackernews-dev-121715-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-hackernews-dev-121715-deployment",
+      "UnauthRoleName": "amplify-hackernews-dev-121715-unauthRole",
+      "StackName": "amplify-hackernews-dev-121715",
+      "StackId": "arn:aws:cloudformation:us-east-1:373215252856:stack/amplify-hackernews-dev-121715/8b953ea0-252e-11ec-ac7a-12a7667d8e5b",
+      "AmplifyAppId": "d3bioug52v2nv7"
+    }
+  }
+}
