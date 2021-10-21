@@ -20,7 +20,7 @@ class Header extends Component {
 </Link>
 <div className="ml1">|</div>
   
-    search
+    /search
   </Link>
           {authToken && (
             <div className="flex">
