@@ -15,6 +15,8 @@ model Link {
   postedBy    User     @relation(fields: [postedById], references: [id])
   postedById  Int
   votes       Vote[]
+  tag        String   @default("something")
+  ed         Sort @default("yes")
 }
 
 model User {
